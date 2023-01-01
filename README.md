@@ -8,7 +8,7 @@ Section:NewButton("Bypass", "Very OP Enjoin:)", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/v3wQE/Bypass/main/README.md"))();
 end)
 
-Section:NewButton("AntiGroup", "Very OP Enjoin:)", function()
+Section:NewButton("BypassGroup", "Very OP Enjoin:)", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/v3wQE/AntiGroup/main/README.md"))();
 
 end)
